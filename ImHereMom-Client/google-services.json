@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "56992166722",
+    "firebase_url": "https://imheremom-f5540.firebaseio.com",
+    "project_id": "imheremom-f5540",
+    "storage_bucket": "imheremom-f5540.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:56992166722:android:b4d27691667b7551",
+        "android_client_info": {
+          "package_name": "com.NacodeLearn.ImHereMom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "56992166722-cnhlri112953jpgv8jm9ae4kq5butv0a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCw0l70jofHap0Jgd9HjuyYLgRkYgJ1J5k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
